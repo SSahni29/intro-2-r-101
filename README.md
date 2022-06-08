@@ -1,6 +1,8 @@
-# intro-2-r-101
+# Introduction to Open Source Scientific Computing
 
 
+## About Markdown
+- [Guide and cheat sheet for Markdown (.md)](https://www.markdownguide.org/cheat-sheet/)
 ## About R
 
 ## Programming with R
